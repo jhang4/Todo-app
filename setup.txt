@@ -1,0 +1,5 @@
+Cd backend
+Pivenv shell
+Cd ..
+Cd frontend
+Npm start
